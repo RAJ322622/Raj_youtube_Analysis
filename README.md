@@ -1,4 +1,5 @@
-YouTube Channels Dataset Data Analysis Project
+**YouTube Channels Dataset Data Analysis Project**
+____________________________________________________________________________________________________________________________________________________________________________
 Introduction:
 The "YouTube Channels Dataset" data analysis project focuses on exploring and understanding a dataset containing information about the top 5000 YouTube channels. The analysis is conducted using the Python programming language, primarily leveraging the pandas and seaborn libraries for data manipulation and visualization
 
