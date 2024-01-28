@@ -16,3 +16,12 @@ Data cleaning steps involve replacing '--' values with NaN, checking and handlin
 
 Feature Engineering:
 The 'Rank' column is cleaned by removing unwanted characters and converting it to integers. Similar cleaning steps are applied to 'Video Uploads' and 'Subscribers' columns, ensuring numeric consistency and handling missing or non-numeric values appropriately.
+
+**Results**
+![image](https://github.com/RAJ322622/youtube_Analysis/assets/146355426/1910828f-cda7-4914-b271-7e966951926e)
+
+![image](https://github.com/RAJ322622/youtube_Analysis/assets/146355426/916566d9-f212-40a2-aadc-33034a3c9c38)
+
+![image](https://github.com/RAJ322622/youtube_Analysis/assets/146355426/53a1826c-6d91-4915-ac61-af0569190d68)
+
+
